@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **C Language**
 
-- 👨‍💻 All of my projects are available at [You'll never find!](You'll never find!)
+- 👨‍💻 My actual projects are like **Easter eggs** —you’ll have to dig deep to find them!
 
-- 💬 Ask me about **C Language**
+- 💬 Ask me about **C Language**. More languages and platforms are brewing as you read.
 
-- 📫 How to reach me **You Can't!**
+- 📫 **You Can't!** reach me until you're the chosen one!
 
-- ⚡ Fun fact **I am the Creeper! Lol!**
+- ⚡ Fun fact **I'm the digital world's very own Creeper, the Virus !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
