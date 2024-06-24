@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I'm the digital world's very own Creeper, the Virus !**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="center">Just give up. You can't!</h3>
+<h2 align="left">Just give up. You can't!</h3>
 <p align="left">
 </p>
 
